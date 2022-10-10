@@ -72,7 +72,7 @@ const Footer = () => {
               <p className="office__info">
                 3, Washtington Avenue, EX2 9BA, London, United Kingdom
               </p>
-              <p className="office__info">Phone: +44-0975-234-555</p>
+              <p className="office__info">Phone: +44-0289-234-555</p>
               <p className="office__info">Email: cars@carshire.com</p>
               <p className="office__info">Office Hours 9:00 - 17:00</p>
             </div>
@@ -95,7 +95,7 @@ const Footer = () => {
           <Col lg="12">
             <div className="footer__bottom">
               <p className="section__description d-flex align-items-center justify-content-center gap-1 pt-4">
-                <i class="ri-copyright-line"></i>Copyright {year} , Developed by
+                <i class="ri-copyright-line"></i>Copyright {year} . Developed by
                 lomuricodes. All rights reserved.
               </p>
             </div>
